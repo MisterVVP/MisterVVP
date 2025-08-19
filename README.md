@@ -33,4 +33,4 @@ My current interests include:
 
 ### 🤝 Collaboration
 I'm open to discussing **contract work or collaborations**.  
-If you're looking for a **manager, DevOps engineer, software architect, or software engineer**, feel free to ping me on [LinkedIn](https://www.linkedin.com/).  
+If you're looking for a **manager, DevOps engineer, software architect, or software engineer**, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrvvp/).
