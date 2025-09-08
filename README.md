@@ -6,7 +6,7 @@ I've been a software enthusiast since 2012. Currently, I work at [RELEX Solution
 - [**poor-man-s-cache**](https://github.com/MisterVVP/poor-man-s-cache)  
   A **high-performance coroutine-based TCP cache server in C++**, inspired by Redis.  
   It started as a pet project but has grown into a stable cache system with a custom key-value store, epoll-based networking, memory pool optimizations, and compression logic.  
-  My current goal is to push its performance to **10M and then 100M requests per second**.
+  My current goal is to push its performance to **10M and then 100M requests per second** on relatively modern PC.
 
 - [**prism-plan**](https://github.com/MisterVVP/prism-plan)  
   A simple **time and task management** application, built with React and Vite. (mobile client is coming)  
