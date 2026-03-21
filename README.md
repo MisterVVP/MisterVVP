@@ -8,10 +8,6 @@ I've been a software enthusiast since 2012. Currently, I work at [RELEX Solution
   It started as a pet project but has grown into a stable cache system with a custom key-value store, epoll-based networking, memory pool optimizations, and compression logic.  
   My current goal is to push its performance to **10M and then 100M requests per second** on relatively modern PC.
 
-- [**prism-plan**](https://github.com/MisterVVP/prism-plan)  
-  A simple **time and task management** application, built with React and Vite. (mobile client is coming)  
-  It supports **drag-and-drop scheduling**, and has a clean productivity-focused UI. It is a pet project focused on microservice design and scalability, implemented on Microsoft Azure cloud stack.
-
 ---
 
 ### 💡 Interests & Expertise
