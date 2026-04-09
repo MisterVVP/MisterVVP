@@ -7,8 +7,8 @@ I've been a software enthusiast since 2012. Currently, I work at [RELEX Solution
   A **high-performance coroutine-based TCP cache server in C++**, inspired by Redis.  
   It started as a pet project but has grown into a stable cache system with a custom key-value store, epoll-based networking, memory pool optimizations, and compression logic.  
   My current goal is to push its performance to **10M and then 100M requests per second** on relatively modern PC.
-- [**FauxzureQ**](https://github.com/MisterVVP/FauxzureQ)
-  A local azure storage account emulator - alternative to Azurite.
+- [**FauxzureQ**](https://github.com/MisterVVP/FauxzureQ)  
+  A local azure storage account emulator - a faster alternative to [azurite](https://github.com/azure/azurite).
 
 ---
 
