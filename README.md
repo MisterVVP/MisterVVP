@@ -1,8 +1,12 @@
 ## Welcome! 👋
 
-I've been a software enthusiast since 2012. Currently, I work at [RELEX Solutions](https://www.relexsolutions.com/) as a Senior Engineering Manager, based in Helsinki, Finland.
+I've been a software enthusiast since 2012.
 
 ### 🚀 Featured Projects
+- [**logarift**](https://github.com/MisterVVP/logarift)  
+  Developer Experience friction logging and analytics system for capturing developer pain points, modeling cognitive load, and improving engineering workflows.
+- [**a2a-cpp**](https://github.com/MisterVVP/a2a-cpp)  
+  C++20 SDK for the Agent2Agent (A2A) Protocol: build A2A clients and servers with REST, JSON-RPC, gRPC/protobuf, streaming, auth hooks, CMake, vcpkg.
 - [**poor-man-s-cache**](https://github.com/MisterVVP/poor-man-s-cache)  
   A **high-performance coroutine-based TCP cache server in C++**, inspired by Redis.  
   It started as a pet project but has grown into a stable cache system with a custom key-value store, epoll-based networking, memory pool optimizations, and compression logic.  
