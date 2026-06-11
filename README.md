@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I've been a software enthusiast since 2012.
+Software enthusiast since 2012.
 
 ### 🚀 Featured Projects
 - [**logarift**](https://github.com/MisterVVP/logarift)  
