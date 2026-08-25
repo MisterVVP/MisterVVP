@@ -21,6 +21,7 @@ Beyond these projects, I’m always exploring **GPU programming** and **high-per
 
 My current interests include:
 - **High-performance web servers** and **distributed caching systems**
+- **Agentic AI** and **A2A protocol** 
 - **GPU acceleration (OpenCL, CUDA)** for computation-heavy workloads
 - **Scalable system design** and **DevOps best practices**
 
